@@ -1,0 +1,9 @@
+Link for initial 10GB+ Yelp Dataset: 
+
+https://www.yelp.com/dataset/download
+
+
+
+Documentation & Dataset dictionary:
+
+https://www.yelp.com/dataset/documentation/main
